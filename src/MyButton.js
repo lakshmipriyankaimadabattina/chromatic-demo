@@ -3,7 +3,7 @@ export default function MyButton({ label }) {
       <button
         style={{
           padding: "10px 20px",
-          backgroundColor: "red",
+          backgroundColor: "green",
           color: "white",
           border: "none",
           borderRadius: "5px",
